@@ -3,3 +3,5 @@
 # dependencies
 /[Dd]eploy
 
+/node_modules
+
