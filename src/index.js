@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import 'babel-polyfill';
 import { render } from 'react-dom';
@@ -10,3 +11,7 @@ render(
   <Router history={browserHistory} routes={routes} />,
   document.getElementById("app")
 );
+=======
+/* eslint-disable no-console */
+console.log('hi');
+>>>>>>> master
